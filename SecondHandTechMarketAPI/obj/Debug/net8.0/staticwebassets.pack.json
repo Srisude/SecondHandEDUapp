@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SUDE\\SecondHandTechMarketAPI\\wwwroot\\images\\1262c77f-4de9-4c67-803e-0988c18c21a7.jpg",
+      "PackagePath": "staticwebassets\\images\\1262c77f-4de9-4c67-803e-0988c18c21a7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SUDE\\SecondHandTechMarketAPI\\wwwroot\\images\\1ec117e0-a25b-4247-913e-c6d5e675637d.jpeg",
+      "PackagePath": "staticwebassets\\images\\1ec117e0-a25b-4247-913e-c6d5e675637d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SUDE\\SecondHandTechMarketAPI\\wwwroot\\images\\21422d7a-624d-4976-aae4-f0f85957890c.webp",
+      "PackagePath": "staticwebassets\\images\\21422d7a-624d-4976-aae4-f0f85957890c.webp"
+    },
+    {
+      "Id": "C:\\Users\\SUDE\\SecondHandTechMarketAPI\\wwwroot\\images\\3c9c1bf6-1a48-4dc4-b484-3a4233a1a4e5.webp",
+      "PackagePath": "staticwebassets\\images\\3c9c1bf6-1a48-4dc4-b484-3a4233a1a4e5.webp"
+    },
+    {
+      "Id": "C:\\Users\\SUDE\\SecondHandTechMarketAPI\\wwwroot\\images\\3ff37803-f88a-45b9-8537-a44a5bae8ac6.jpg",
+      "PackagePath": "staticwebassets\\images\\3ff37803-f88a-45b9-8537-a44a5bae8ac6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SUDE\\SecondHandTechMarketAPI\\wwwroot\\images\\c060898c-1527-44ef-ab77-06e55d1a97dd.jpeg",
+      "PackagePath": "staticwebassets\\images\\c060898c-1527-44ef-ab77-06e55d1a97dd.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SecondHandTechMarketAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SecondHandTechMarketAPI.props",
+      "PackagePath": "build\\SecondHandTechMarketAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SecondHandTechMarketAPI.props",
+      "PackagePath": "buildMultiTargeting\\SecondHandTechMarketAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SecondHandTechMarketAPI.props",
+      "PackagePath": "buildTransitive\\SecondHandTechMarketAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

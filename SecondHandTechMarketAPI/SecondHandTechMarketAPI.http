@@ -1,0 +1,6 @@
+@SecondHandTechMarketAPI_HostAddress = http://localhost:5187
+
+GET {{SecondHandTechMarketAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
